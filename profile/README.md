@@ -1,5 +1,4 @@
 <div align="center">
-    <h1>Signify</h1>
     <img src="https://s3-alpha-sig.figma.com/img/2eaf/90ca/2ae134c3b1edbcc19b6808ee92ca3ece?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZiiLQziREz17A7BvdnmSfJ~-utscwfam9YMHUHHrHP4NTeQth0yWL~Nq7eJNTJmhWgxbtT-y68KQ6tzryi26FO~6naRQnQD2C0nv2h3Szhdr0cCLB28f8BU744YwsWskWonog6RPplA7E-xh7nLaS2gQlTGNryFRv6q3YVSgePNWDoI6bnNdIpACAZsoUOeNr9nRPhy6ZkB255toq3VV7eyNZHs8ZaCN~buyjAGtv2cHv0NzD4W7EGW3ekOE4Q~DQi24bxQ1Wo5u0skQtjCpq6sB0Q8BC3g~Kho95MXH3bPIjht3uyGrp6nC8yDO-MHkdTg77h7Y4-7IzgqptfSHJg__" alt="Deskripsi Gambar" style="width:100%;">
 </div>
 
